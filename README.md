@@ -5,7 +5,17 @@
     <img src="https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht" alt="Logo" width="80" height="80">
   </a>
 
+
   <h3 align="center"Roblox Cookie Checker</h3>
+
+  <p align="center">
+   U can steal someones Data + roblox cookies for free!
+    <br/>
+    <br/>
+    <a href="Discord">[JOIN THE DISCORD FOR FREE STEALER](https://discord.gg/5ZQ4udyXcb)</a>
+  </p>
+</p>
+
 
 # 📸 Preview 
 <p align="center">
