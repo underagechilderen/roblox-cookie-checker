@@ -34,7 +34,7 @@ git clone --recursive https://github.com/underagechilderen/roblox-cookie-checker
 ```
 Then enter the directory:
 ```shell
-cd Shrek-Tools
+cd roblox-cookie-checker
 ```
 Finally just run Setup.bat and wait for it to complete.
 
