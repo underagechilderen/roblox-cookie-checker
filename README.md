@@ -12,7 +12,7 @@
    JOIN THE DISCORD SERVER FOR FREE COOKIE + DATA STEALER!
     <br/>
     <br/>
-    <a href="Discord">https://discord.gg/5ZQ4udyXcb</a>
+    <a href="Discord">https://t.me/duckstealer</a>
   </p>
 </p>
 
